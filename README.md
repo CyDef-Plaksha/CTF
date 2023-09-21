@@ -1,5 +1,11 @@
 # Capture-The-Flag puzzles
 
+> ***This event is now over and the repository has been populated with the solutions for everyone to solve :)***
+> 
+> ***⚠️ If you want to solve them first, do not look at the solutions! ⚠️***
+
+-----
+
 Welcome to the first-ever CyDef Capture-The-Flag event!
 
 All the puzzles for the CTF are present in this repository (set of code).
@@ -8,20 +14,16 @@ All the puzzles for the CTF are present in this repository (set of code).
 
 Internet use is allowed!
 
-## Doing the puzzles!
+## Doing the puzzles
 
-You can download the puzzles and their files by clicking the Large green button on the Top Right. If you have worked with GitHub before, you can also clone this repository.
+You can download the puzzles and their files by clicking the Large green button on the Top Right. If you have worked with GitHub before, you know what to do :).
 
-## Submitting!
+The solutions to these puzzles are now available in the same directory (folder) as the puzzles.
 
-Submission is *PUZZLE WISE*. You don't have to wait to submit all the puzzles!
+## Solutions
 
-You can submit the puzzles by using this [Microsoft Form](https://forms.office.com/r/PqDycfnTx0). Please submit using a valid Plaksha ID that is registered in the event. **Flags are case-sensitive.**
+You cannot officially submit these puzzles any more, however you can try them against the solutions! Solutions are present in the respective folders.
 
-**SUBMIT A FLAG AS SOON AS YOU ARE DONE WITH A PUZZLE, DON'T WAIT TO SUBMIT FLAGS TILL THE END!!!** You score higher if you have more valid submissions in a lower amount of time. 
+## Issues?
 
-## Hints
-
-For hints, please ask the CyDef members at any point in time. 
-
-**Each puzzle has a maximum of 3 hints**. The more hints you take, the more points get docked from your final score.
+If there are any Issues or Questions, Please use the Repository's Issues tab to raise queries.

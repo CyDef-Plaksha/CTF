@@ -7,4 +7,3 @@ The code in the Capture-The-Flag event's poster is incorrect! Unfortunately, it 
 Can you tell us what the exact error is? You need to find out the error code that is thrown when the code is run. What error does the computer see?
 
 *This question has no hints, since it is a bonus*
-
